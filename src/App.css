@@ -1256,10 +1256,42 @@ img{
 .card{
   width: 20%;
   display: inline-block;
-  box-shadow: 2px 2px 20px black;
+  /* box-shadow: 2px 2px 20px black; */
   border-radius: 5px; 
   margin: 2%;
  }
+
+
+/* Quiz */
+.card-body{
+  width: 100%;
+
+}
+.card-grouppy{
+  width: 90% ;
+ 
+}
+
+.quizcardy{
+ 
+  width: auto;
+}
+.quizcarddy{
+  margin: -1px;
+  width: 18.5%;
+  
+}
+
+.sidebar-p-y {
+  padding-top: -2rem;
+  display: block;
+  width: 20rem;
+  margin-left: 60rem;
+  margin-top: -26.5rem;
+}
+
+
+/* Quiz */
 
 .image img{
 width: 100%;
@@ -1528,6 +1560,15 @@ textarea.input1 + .shadow-input1 {
     opacity: 0;
   }
 }
+
+
+/* Quiz */
+
+/* Quiz */
+
+
+
+
 
 /*---------------------------------------------*/
 .container-contact1-form-btn {
